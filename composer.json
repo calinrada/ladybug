@@ -21,7 +21,7 @@
         "symfony/finder": ">=2.0",
         "symfony/dependency-injection": ">=2.0",
         "symfony/config": ">=2.0",
-        "twig/twig": ">=1.7.0",
+        "twig/twig": "1.*",
         "ptachoire/cssembed": "v1.0.2"
     },
     "require-dev": {
